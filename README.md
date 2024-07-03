@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhello-hi-greetings-JuyhnRiWcPlAumeXnD&psig=AOvVaw0-EPqwO4pGEVPPA34plpWm&ust=1720134771082000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjkhML_i4cDFQAAAAAdAAAAABAY" alt="waving hand" width="30px">
+
 
 Welcome to my GitHub profile! I'm Tomer Galanti, an AI postdoctoral researcher at MIT with a passion for exploring fundamental questions in AI. Here’s a bit more about me:
 

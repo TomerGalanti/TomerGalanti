@@ -1,4 +1,4 @@
-## Hi there! <img src="https://media.tenor.com/W8DLm-mqJ8oAAAAi/cute.gif" alt="waving hand" width="100px">
+## <img src="https://media.tenor.com/W8DLm-mqJ8oAAAAi/cute.gif" alt="waving hand" width="100px">
 
 
 

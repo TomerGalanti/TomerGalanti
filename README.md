@@ -2,7 +2,7 @@
 
 
 
-Welcome to my GitHub profile! I'm Tomer Galanti, an AI postdoctoral researcher at MIT with a passion for exploring fundamental questions in AI. Here’s a bit more about me:
+Hello! I'm Tomer Galanti, an AI postdoctoral researcher at MIT with a passion for exploring fundamental questions in AI. Here’s a bit more about me:
 
 - 🌱 I’m currently experimenting with large language models and their ability to learn how to code programs!
 - 👯 I'm open to collaborate on cool projects in AI and Fintech (and anything in between). Feel free to hit me up!

@@ -6,6 +6,6 @@ Hello! I'm Tomer Galanti, an Assistant Professor at Texas A&M University with a 
 
 - 🌱 I’m currently working on questions related to the efficiency of large language models (e.g., inference time, sample complexity, etc').
 - 📫 How to reach me: You can contact me via email at tomer22g@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tomer-galanti).
-- ⚡ I also work on a cool Fintech app on the side (but not publicly sharing it yet)!
+- ⚡ I also work on a cool Fintech app on the side.
 
 Feel free to check out my repositories and projects. I’m always open to feedback, collaboration, and new ideas. Let's innovate together!

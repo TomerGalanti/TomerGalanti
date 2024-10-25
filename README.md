@@ -4,7 +4,7 @@
 
 Howdy! 👋 
 
-I'm Tomer Galanti, an Assistant Professor at Texas A&M University with a passion for exploring fundamental questions in AI.
+I'm Tomer Galanti, an Assistant Professor at Texas A&M University working at the intersection between theory and algorithms in deep learning, LLMs and AI.
 
 Contact:
 

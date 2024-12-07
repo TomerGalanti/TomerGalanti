@@ -10,5 +10,5 @@ I'm Tomer Galanti, an Assistant Professor at Texas A&M University working on som
 - 🌐 **Website:** [https://tomergalanti.github.io](https://tomergalanti.github.io)
 - 🐦 **Twitter:** [@GalantiTomer](https://twitter.com/GalantiTomer)
 - 💻 **GitHub:** [@tomergalanti](https://github.com/tomergalanti)
-- 🦋 **Bluesky:** [@tomergalanti.bsky.social(https://bsky.app/profile/tomergalanti.bsky.social)]
+- 🦋 **Bluesky:** [@tomergalanti.bsky.social](https://bsky.app/profile/tomergalanti.bsky.social)
 
